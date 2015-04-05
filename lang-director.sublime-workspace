@@ -1,0 +1,1154 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ar",
+				"archiveTypes"
+			],
+			[
+				"arch",
+				"archiveName"
+			],
+			[
+				"archive",
+				"archiveContents"
+			],
+			[
+				"archiveP",
+				"archiveProperty"
+			],
+			[
+				"addArt",
+				"addArticleToPropertyValueArchive"
+			],
+			[
+				"val",
+				"valueIndex"
+			],
+			[
+				"write",
+				"writeArchiveType"
+			],
+			[
+				"art",
+				"articlePropertyValues"
+			],
+			[
+				"addA",
+				"addArticle"
+			],
+			[
+				"pro",
+				"propertyName"
+			],
+			[
+				"date",
+				"dateArchive"
+			],
+			[
+				"archivePrp",
+				"archiveProperties"
+			],
+			[
+				"text",
+				"text-colour"
+			],
+			[
+				"offcan",
+				"offcanvas-nav-width"
+			],
+			[
+				"border-radius",
+				"border-top-left-radius"
+			],
+			[
+				"tex",
+				"text-colour"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"list-s",
+				"list-style-type"
+			],
+			[
+				"nav-",
+				"nav-colour"
+			],
+			[
+				"font",
+				"font-family"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "gp",
+		"selected_items":
+		[
+			[
+				"gp",
+				"Git: Push"
+			],
+			[
+				"gs",
+				"Git: Status"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"sublimegit add l",
+				"SublimeGit: Add License"
+			],
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in s",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 154.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/home/projects/lang-director"
+	],
+	"file_history":
+	[
+		"/home/home/Dropbox/sublime-text-3/Packages/GoSublime/USAGE.md",
+		"/home/home/projects/chineseboost-articles/blog/posts/2015/04/understand-before-you-learn.md",
+		"/home/home/projects/chineseboost-articles/chineseboost-articles.sublime-project",
+		"/home/home/projects/chineseboost-articles/blog/posts/2015/04/what-makes-good-chinese-audio.md",
+		"/home/home/projects/chineseboost-articles/blog/posts/2015/01/improve-your-chinese-right-now.md",
+		"/home/home/projects/chineseboost-articles/blog/posts/2015/01/mandarin-tone-lies.md",
+		"/home/home/projects/chineseboost-articles/blog/posts/2015/02/5-free-chinese-podcasts.md",
+		"/home/home/projects/chineseboost-articles/blog/posts/2015/02/10-best-free-resources-learn-chinese.md",
+		"/home/home/projects/chineseboost-articles/blog/posts/2015/02/lifelong-character-learning-10-minutes.md",
+		"/home/home/projects/chineseboost-articles/blog/posts/2015/01/lexikeet-chinese.md",
+		"/home/home/projects/chineseboost-articles/blog/posts/2015/01/understanding-numbers.md",
+		"/home/home/projects/chineseboost-articles/blog/posts/2015/01/lifelong-character-learning-10-minutes.md",
+		"/home/home/projects/chineseboost-articles/blog/posts/2015/04/sharpening-the-saw-learning-chinese.md",
+		"/home/home/projects/chineseboost-articles/gulpfile.js",
+		"/home/home/projects/chineseboost-articles/blog/posts/2015/03/5-free-chinese-podcasts.md",
+		"/home/home/projects/chineseboost-articles/blog/posts/2015/03/10-best-free-resources-learn-chinese.md",
+		"/home/home/projects/chineseboost-articles/blog/posts/2015/03/how-to-learn-to-write-chinese-key-concepts.md",
+		"/home/home/projects/chineseboost-articles/blog/posts/2015/03/how-to-learn-to-write-chinese-method.md",
+		"/home/home/projects/chineseboost-articles/themes/chineseboost/layouts/partials/modules/related-articles/series-list.html",
+		"/home/home/projects/chineseboost-articles/blog/posts/2015/03/simple-test-chinese-study-methods.md",
+		"/home/home/projects/chineseboost-articles/blog/posts/2015/03/why-randy-hunt-is-wrong-about-flashcards.md",
+		"/home/home/projects/chineseboost-articles/blog/posts/2015/04/sharpening-the-saw.md",
+		"/home/home/.zshrc",
+		"/home/home/projects/chineseboost-articles/themes/chineseboost/scss/base/blockquote.scss",
+		"/home/home/projects/chineseboost-articles/blog.sh",
+		"/home/home/projects/chineseboost-articles/themes/chineseboost/layouts/partials/breadcrumbs/base.html",
+		"/home/home/projects/chineseboost-articles/themes/chineseboost/scss/layout/footer.scss",
+		"/home/home/projects/chineseboost-articles/themes/chineseboost/layouts/partials/page-sections/footer.html",
+		"/home/home/projects/chineseboost-articles/themes/chineseboost/scss/cba.scss",
+		"/home/home/projects/chineseboost-articles/themes/chineseboost/layouts/partials/article-meta.html",
+		"/home/home/projects/chineseboost-articles/themes/chineseboost/layouts/partials/page-sections/foot/foot.html",
+		"/home/home/projects/chineseboost-articles/themes/chineseboost/scss/base/article.scss",
+		"/home/home/projects/chineseboost-articles/themes/chineseboost/layouts/partials/author-meta.html",
+		"/home/home/projects/chineseboost-articles/themes/chineseboost/layouts/partials/page-sections/header-end.html",
+		"/home/home/projects/chineseboost-articles/themes/chineseboost/layouts/partials/page-sections/header-start.html",
+		"/home/home/projects/chineseboost-articles/themes/chineseboost/scss/config/header-sizing.scss",
+		"/home/home/projects/chineseboost-articles/config/htmlmin-opt.json",
+		"/home/home/projects/chineseboost-articles/themes/chineseboost/layouts/partials/modules/related-articles.html",
+		"/home/home/projects/chineseboost-articles/readme.md",
+		"/home/home/projects/chineseboost-articles/grammar.sh",
+		"/home/home/projects/chineseboost-articles/blog.yaml",
+		"/home/home/projects/chineseboost-articles/grammar.yaml",
+		"/home/home/projects/chineseboost-articles/publish/blog/index.html",
+		"/home/home/projects/chineseboost-articles/themes/chineseboost/layouts/partials/index/blog.html",
+		"/home/home/projects/chineseboost-articles/themes/chineseboost/layouts/partials/sidebars/sidebar.html",
+		"/home/home/projects/chineseboost-articles/themes/chineseboost/layouts/partials/breadcrumbs/article-level.html",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2013/01/suo-structural-particle.md",
+		"/home/home/projects/chineseboost-articles/package.json",
+		"/home/home/projects/chineseboost-articles/publish/blog/series/how-to-learn-to-write-chinese/index.html",
+		"/home/home/projects/chineseboost-articles/themes/chineseboost/layouts/index.html",
+		"/home/home/projects/chineseboost-articles/publish/blog/understanding-numbers/index.html",
+		"/home/home/projects/chineseboost-articles/publish/blog/tags/index.html",
+		"/home/home/projects/chineseboost-articles/publish/blog/subtitles/index.html",
+		"/home/home/projects/chineseboost-articles/publish/blog/speaking-slowly/index.html",
+		"/home/home/projects/chineseboost-articles/publish/blog/simple-test-chinese-study-methods/index.html",
+		"/home/home/projects/chineseboost-articles/publish/blog/series/index.html",
+		"/home/home/projects/chineseboost-articles/publish/blog/posts/index.html",
+		"/home/home/projects/chineseboost-articles/publish/blog/mandarin-tone-lies/index.html",
+		"/home/home/projects/chineseboost-articles/publish/blog/lifelong-character-learning-10-minutes/index.html",
+		"/home/home/projects/chineseboost-articles/publish/blog/lexikeet-chinese/index.html",
+		"/home/home/projects/chineseboost-articles/publish/blog/improve-your-chinese-right-now/index.html",
+		"/home/home/projects/chineseboost-articles/publish/blog/how-to-learn-to-write-chinese-method/index.html",
+		"/home/home/projects/chineseboost-articles/publish/blog/how-to-learn-to-write-chinese-key-concepts/index.html",
+		"/home/home/projects/chineseboost-articles/publish/blog/how-to-learn-to-write-chinese-introduction/index.html",
+		"/home/home/projects/chineseboost-articles/publish/blog/404/index.html",
+		"/home/home/projects/chineseboost-articles/themes/chineseboost/bower_components/pure/forms.css",
+		"/home/home/projects/chineseboost-articles/themes/chineseboost/layouts/404.html",
+		"/home/home/projects/chineseboost-articles/themes/chineseboost/layouts/partials/page-sections/head/nav-items.html",
+		"/home/home/projects/chineseboost-articles/themes/chineseboost/layouts/taxonomy/dengji.terms.html",
+		"/home/home/Dropbox/backups/ssl/chineseboost-com/example-upload.txt",
+		"/home/home/Dropbox/backups/ssl/chineseboost-com/grammar-chineseboost-com.crt",
+		"/home/home/Dropbox/backups/ssl/chineseboost-com/grammar-chineseboost-com.key",
+		"/home/home/.aws/credentials",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2014/02/dui4-gen1-prepositions.md",
+		"/home/home/projects/chineseboost-articles/blog/posts/2015/03/sharpening-the-saw.md",
+		"/home/home/.aws/config",
+		"/home/home/.ssl/chineseboost-com/blog-chineseboost-com.crt",
+		"/home/home/projects/chineseboost-articles/themes/chineseboost/layouts/partials/nodes/guanjianci-characters.html",
+		"/home/home/projects/chineseboost-articles/themes/chineseboost/layouts/partials/modules/article-card.html",
+		"/home/home/projects/chineseboost-articles/themes/chineseboost/bower_components/pure/grids-responsive-old-ie.css",
+		"/home/home/projects/chineseboost-articles/themes/chineseboost/layouts/_default/post.html",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2013/04/zhong1yu2-zui4hou4-difference.md",
+		"/home/home/projects/chineseboost-articles/config/htmlmin-config.json",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2014/10/jie1-jie1dao4-answer-receive.md",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2012/12/chinese-grammar-rules.md",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2012/12/de-grammar-summary.md",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2012/12/de-hua-expressing-if.md",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2012/12/le-grammar-summary.md",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2012/12/verb-chulai-summary.md",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2012/12/yi-dianr-placement.md",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2013/01/ba-ma-sentence-particles.md",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2013/01/ba-structure-usage-basics.md",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2013/01/ba3-common-mistakes.md",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2013/01/ban-yi-ban-yi-ge-ban-difference.md",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2013/01/bang-and-bang-mang.md",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2013/01/beginners-basic-chinese-grammar.md",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2013/03/bei-times-fold.md",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2013/03/gei3-directly-after-verb.md",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2013/03/pengjian-yujian-jianmian-difference.md",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2013/03/suan-suanshang-suanle.md",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2013/03/zai4-after-the-verb.md",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2013/04/mei2-guan1xi-usage.md",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2013/04/past-events.md",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2013/04/yi1-jiu4-as-soon-as.md",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2013/06/de-after-adjectives.md",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2013/06/fang4jia4-vs-jia4qi1.md",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2013/06/hua2suan4-bargain.md",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2013/06/modifier-de-noun.md",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2013/06/ren2-vs-nan2ren2.md",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2013/07/jie4-jie4gei3-gen1-jie4.md",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2013/07/repeating-question-words.md",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2013/07/zhang3-zhang3de.md",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2013/08/gen1-ye3-difference.md",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2013/08/ma-ne.md",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2013/08/na2qilai-na2shanglai.md",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2013/08/shi4-de.md",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2013/09/chu2le-yi3wai4.md",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2013/09/ma-obvious-self-evident.md",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2013/09/yao4shi-jiu4.md",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2013/10/guo4-past-experiences.md",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2013/12/xiang3-yao4-xiang3yao4-difference.md",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2014/01/dui4buqi3-qing3wen4-ma2fan-ni3-lao2jia.md",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2014/01/four-uses-cai2.md",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2014/02/jia1yi3.md",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2014/02/yi3qian2-yi3hou4.md",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2014/03/na2-dai4-difference.md",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2015/02/ba-ten-minutes.md",
+		"/home/home/projects/chineseboost-articles/grammar/articles/2015/02/peng-pengjian-pengshang.md"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 258.0,
+		"where_history":
+		[
+			"/home/home/projects/chineseboost-articles/blog/posts",
+			"/home/home/projects/chineseboost-articles",
+			"/home/home/projects/chineseboost-articles/themes/chineseboost",
+			"/home/home/projects/chineseboost-articles/",
+			"/home/home/projects/chineseboost-articles/grammar",
+			"/home/home/projects/sites/chinesegrammar.info/",
+			"/home/home/projects/sites/chinesegrammar.info/content",
+			"/home/home/projects/sites/chinesegrammar.info/",
+			"/home/home/projects/sites/chinesegrammar.info/content",
+			"/home/home/projects/sites/chinesegrammar.info/",
+			"/home/home/projects/sites/chinesegrammar.info/content/posts",
+			"",
+			"/home/home/projects/sites/chinesegrammar.info/content/posts/",
+			"/home/home/projects/sites/chinesegrammar.info/content/posts/2014/10",
+			"/home/home/projects/sites/chinesegrammar.info/content/posts/2014/03",
+			"/home/home/projects/sites/chinesegrammar.info/content/posts/2014/02",
+			"/home/home/projects/sites/chinesegrammar.info/content/posts/2014/01",
+			"/home/home/projects/sites/chinesegrammar.info/content/posts/2014",
+			"/home/home/projects/sites/chinesegrammar.info/content/posts/2013/12",
+			"/home/home/projects/sites/chinesegrammar.info/content/posts/2013/10",
+			"/home/home/projects/sites/chinesegrammar.info/content/posts/2013/09",
+			"/home/home/projects/sites/chinesegrammar.info/content/posts/2013/08",
+			"/home/home/projects/sites/chinesegrammar.info/content/posts/2013/07",
+			"/home/home/projects/sites/chinesegrammar.info/content/posts/2013/06",
+			"/home/home/projects/sites/chinesegrammar.info/content/posts/2013/04",
+			"/home/home/projects/sites/chinesegrammar.info/content/posts/2013/03",
+			"/home/home/projects/sites/chinesegrammar.info/content/posts/2013/01",
+			"/home/home/projects/sites/chinesegrammar.info/content/posts/2013",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" ",
+			"img",
+			"p>",
+			"p",
+			"http://",
+			"fonts.googleapis",
+			"<script",
+			"/home/home/.ssl/chineseboost-com",
+			"blog-",
+			"elsewhere",
+			"mentioned elsewhere",
+			"对这个话题来说，我没有想法。",
+			"\\{\\{% (.*?) %\\}\\}",
+			"{{% liju %}}",
+			"minifyhtml",
+			"~1.0.",
+			"~0.1.",
+			": \"",
+			"pageCount",
+			"method",
+			"pages",
+			"page.author",
+			"str",
+			"archiveName",
+			"page.author",
+			"meta",
+			"=",
+			"page.",
+			")",
+			"//",
+			"string",
+			"archive",
+			"archiveProperty",
+			" typeof ",
+			"standard",
+			"archives",
+			"=",
+			"\"",
+			"new Array()",
+			"this",
+			"this.",
+			"this.add",
+			"},",
+			": ",
+			"for (",
+			" = ",
+			"archivesProperties",
+			"addPropertyArticle",
+			"Property",
+			"property",
+			"Property",
+			"property",
+			":",
+			"=",
+			"@font-face",
+			"-ms-box",
+			"active",
+			"\"",
+			"\\{\\{#keeppinyin\\}\\}(.*?)\\{\\{/keeppinyin\\}\\}",
+			"\\{\\{#pinyin\\}\\}(.*?)\\{\\{/pinyin\\}\\}",
+			"  \\{\\{#pinyin\\}\\}(.*?)\\{\\{/pinyin\\}\\}",
+			"{{/pinyin}}",
+			"\\{\\{#keephanzi\\}\\}(.*?)\\{\\{/keephanzi\\}\\}",
+			"\\{\\{#hanzi\\}\\}(.*?)\\{\\{/hanzi\\}\\}",
+			"  \\{\\{#hanzi\\}\\}(.*?)\\{\\{/hanzi\\}\\}",
+			"{{/pinyin}}",
+			"$bg-image",
+			"When the preposition should be",
+			"\"",
+			"</span></span>",
+			"  <span class=\"english-example\">",
+			"  <span class=\"reading\">",
+			"&oacute;",
+			" \\n",
+			"&nbsp;",
+			"我有一件事想对你说",
+			"\\[class\\^=\"icon-\"\\], \\[class\\*=\" icon-\"\\]",
+			"\\[class^=\"icon-\"\\], \\[class\\*=\" icon-\"\\]",
+			"=",
+			"gulpFilter",
+			"save",
+			"=",
+			"}",
+			"h3",
+			"id=",
+			"#",
+			"#offcanvas-nav",
+			"#page-wrap",
+			"#offcanvas-menu-button",
+			"^=",
+			"font-face",
+			"@media (max-width:650px)",
+			"{{/hanzi}}",
+			"{{#hanzi}}",
+			"{{#pinyin}}",
+			"{{/hanzi}}",
+			"{{#hanzi}}",
+			"offcanvas-link",
+			"5s ease",
+			"0.5s ease",
+			"200px",
+			"button",
+			"    ",
+			"href=\"/\"",
+			"right",
+			"left",
+			"280",
+			"button",
+			".",
+			"button",
+			"mini-menu-button",
+			"\"",
+			"- ",
+			"\"",
+			"  ",
+			", ",
+			",\n  ",
+			"  ",
+			"D, d M Y H:i:s",
+			"new Date()",
+			"&iacute;",
+			"&#44;",
+			"&apos;",
+			"&eacute;",
+			"&hellip;",
+			"&uacute;",
+			"&egrave;",
+			"&igrave;"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"{{< $1 >}}",
+			"{{#pinyin}}$1{{/pinyin}}",
+			"$1",
+			"  {{#keeppinyin}}$1{{/keeppinyin}}",
+			"{{#hanzi}}$1{{/hanzi}}",
+			"$1",
+			"  {{#keephanzi}}$1{{/keephanzi}}",
+			"ó",
+			" ",
+			"í",
+			",",
+			"'",
+			"é",
+			"…",
+			"ú",
+			"è",
+			"ì",
+			"ù",
+			"ò",
+			"á",
+			"à",
+			"  ",
+			"date: 2014-10-",
+			"date: 2014-03-",
+			"date: 2014-02-",
+			"date: 2014-01-",
+			"date: 2014-",
+			"date: 2013-12-",
+			"date: 2013-10-",
+			"date: 2013-09-",
+			"date: 2013-08-",
+			"date: 2013-07-",
+			"date: 2013-06-",
+			"date: 2013-04-",
+			"date: 2013-03-",
+			"date: 2013-01-",
+			"date: 2013-\ncategories:",
+			"date: $1\ncategories:",
+			"date:\\ncategories:\\n",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GoSublime-output":
+	{
+		"height": 116.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 116.0
+	},
+	"output.exec":
+	{
+		"height": 534.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-commit":
+	{
+		"height": 156.0
+	},
+	"output.git-push":
+	{
+		"height": 116.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 116.0
+	},
+	"pinned_build_system": "",
+	"project": "lang-director.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gulpf",
+				"gulpfile.js"
+			],
+			[
+				"gulpfi",
+				"gulpfile.js"
+			],
+			[
+				"block",
+				"themes/chineseboost/scss/base/blockquote.scss"
+			],
+			[
+				"footer.",
+				"themes/chineseboost/scss/layout/footer.scss"
+			],
+			[
+				"article-meta",
+				"themes/chineseboost/layouts/partials/article-meta.html"
+			],
+			[
+				"header",
+				"themes/chineseboost/layouts/partials/page-sections/header-end.html"
+			],
+			[
+				"foot/html",
+				"themes/chineseboost/layouts/partials/page-sections/foot/foot.html"
+			],
+			[
+				"footer",
+				"themes/chineseboost/layouts/partials/page-sections/footer.html"
+			],
+			[
+				"randyhnt",
+				"blog/posts/2015/03/why-randy-hunt-is-wrong-about-flashcards.md"
+			],
+			[
+				"partials/index",
+				"themes/chineseboost/layouts/partials/index/blog.html"
+			],
+			[
+				"index",
+				"publish/blog/index.html"
+			],
+			[
+				"author",
+				"themes/chineseboost/layouts/partials/author-meta.html"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"jieda",
+				"grammar/articles/2014/10/jie1-jie1dao4-answer-receive.md"
+			],
+			[
+				"gulpfile",
+				"gulpfile.js"
+			],
+			[
+				"laiqu",
+				"grammar/articles/2014/03/basic-direction-complements-lai2-qu4.md"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"article.scss",
+				"themes/chineseboost/scss/base/article.scss"
+			],
+			[
+				"breadcru",
+				"themes/chineseboost/layouts/partials/breadcrumbs/base.html"
+			],
+			[
+				"acc",
+				"build/modules/generate-archives/lib/accumulate-archives.js"
+			],
+			[
+				"site",
+				"design/scss/layout/site-header.scss"
+			],
+			[
+				"todo",
+				"todo.txt"
+			],
+			[
+				"meta",
+				"build/meta.json"
+			],
+			[
+				"archive",
+				"design/templates/archive/archive.swig"
+			],
+			[
+				"head",
+				"design/templates/partials/head.swig"
+			],
+			[
+				"content",
+				"build/tasks/content.js"
+			],
+			[
+				"author-",
+				"design/templates/partials/author-meta.swig"
+			],
+			[
+				"la",
+				"design/templates/layout.swig"
+			],
+			[
+				"apply",
+				"build/modules/apply-template.js"
+			],
+			[
+				"setname",
+				"build/modules/setname.js"
+			],
+			[
+				"cont",
+				"build/tasks/content.js"
+			],
+			[
+				"arc",
+				"build/tasks/archives.js"
+			],
+			[
+				"ar",
+				"design/templates/archive.swig"
+			],
+			[
+				"write",
+				"build/modules/generate-archives/lib/write-archive-type.js"
+			],
+			[
+				"swig",
+				"design/templates/archive.swig"
+			],
+			[
+				"rss",
+				"build/tasks/rss.js"
+			],
+			[
+				"meta.js",
+				"build/tasks/meta.js"
+			],
+			[
+				"meta.",
+				"build/meta.json"
+			],
+			[
+				"rss.s",
+				"design/templates/rss.swig"
+			],
+			[
+				"style",
+				"build/tasks/style.js"
+			],
+			[
+				"ico",
+				"design/scss/vendor/icomoon.scss"
+			],
+			[
+				"valid",
+				"build/tasks/validate.js"
+			],
+			[
+				"nav",
+				"design/scss/modules/nav.scss"
+			],
+			[
+				"chule",
+				"content/posts/2013/09/chu2le-yi3wai4.md"
+			],
+			[
+				"meigu",
+				"content/posts/2013/04/mei2-guan1xi-usage.md"
+			],
+			[
+				"dehua",
+				"content/posts/2012/12/de-hua-expressing-if.md"
+			],
+			[
+				"jiayi",
+				"content/posts/2014/02/jia1yi3.md"
+			],
+			[
+				"nadai",
+				"content/posts/2014/03/na2-dai4-difference.md"
+			],
+			[
+				"maob",
+				"content/posts/2013/09/ma-obvious-self-evident.md"
+			],
+			[
+				"cg",
+				"design/scss/cg.scss"
+			],
+			[
+				"va",
+				"design/scss/config/variables.scss"
+			],
+			[
+				"page",
+				"design/scss/layout/page.scss"
+			],
+			[
+				"body",
+				"design/scss/base/body.scss"
+			],
+			[
+				"duigen",
+				"content/posts/2014/02/dui4-gen1-prepositions.md"
+			],
+			[
+				"yijiu",
+				"content/posts/2013/04/yi1-jiu4-as-soon-as.md"
+			],
+			[
+				"validate",
+				"build/tasks/validate.js"
+			],
+			[
+				"deafter",
+				"content/posts/2013/06/de-after-adjectives.md"
+			],
+			[
+				"nada",
+				"content/posts/2014/03/na2-dai4-difference.md"
+			],
+			[
+				"duibu",
+				"content/posts/2014/01/dui4buqi3-qing3wen4-ma2fan-ni3-lao2jia.md"
+			],
+			[
+				"rep",
+				"content/posts/2013/07/repeating-question-words.md"
+			],
+			[
+				"zhangzh",
+				"content/posts/2013/07/zhang3-zhang3de.md"
+			],
+			[
+				"beitimes",
+				"content/posts/2013/03/bei-times-fold.md"
+			],
+			[
+				"mane",
+				"content/posts/2013/08/ma-ne.md"
+			],
+			[
+				"gen1",
+				"content/posts/2013/08/gen1-ye3-difference.md"
+			],
+			[
+				"de-hua",
+				"content/posts/2012/12/de-hua-expressing-if.md"
+			],
+			[
+				"xiang",
+				"content/posts/2013/12/xiang3-yao4-xiang3yao4-difference.md"
+			],
+			[
+				"jie",
+				"content/posts/2013/07/jie4-jie4gei3-gen1-jie4.md"
+			],
+			[
+				"fang",
+				"content/posts/2013/06/fang4jia4-vs-jia4qi1.md"
+			],
+			[
+				"lay",
+				"design/templates/layout.swig"
+			],
+			[
+				"imp",
+				"build/tasks/import.js"
+			],
+			[
+				"import",
+				"build/tasks/import.js"
+			],
+			[
+				"site-h",
+				"design/templates/partials/site-header.swig"
+			],
+			[
+				"aux-",
+				"design/scss/layout/aux-sidebar.scss"
+			],
+			[
+				"layout",
+				"design/templates/layout.swig"
+			],
+			[
+				"side",
+				"design/scss/layout/sidebar.scss"
+			],
+			[
+				"layo",
+				"design/templates/layout.swig"
+			],
+			[
+				"offc",
+				"design/scss/layout/offcanvas-nav.scss"
+			],
+			[
+				"offcan",
+				"design/scss/layout/offcanvas-nav.scss"
+			],
+			[
+				"conte",
+				"design/scss/modules/content-block.scss"
+			],
+			[
+				"site-",
+				"design/templates/partials/site-header.swig"
+			],
+			[
+				"val",
+				"build/tasks/validate.js"
+			],
+			[
+				"index.",
+				"content/pages/index.md"
+			],
+			[
+				"bang-bang",
+				"content/posts/2013/01/bang-and-bang-mang.md"
+			],
+			[
+				"column",
+				"design/scss/layout/column.scss"
+			],
+			[
+				"site-he",
+				"design/scss/layout/site-header.scss"
+			],
+			[
+				"site-ti",
+				"design/templates/partials/site-title.swig"
+			],
+			[
+				"google",
+				"design/scss/vendor/google-fonts.scss"
+			],
+			[
+				"foot",
+				"design/templates/partials/foot.swig"
+			],
+			[
+				"na2",
+				"content/posts/2013/08/na2qilai-na2shanglai.md"
+			],
+			[
+				"arti",
+				"design/scss/base/article.scss"
+			],
+			[
+				"signup-box",
+				"design/templates/partials/sidebar/signup-box.swig"
+			],
+			[
+				"article",
+				"design/scss/base/article.scss"
+			],
+			[
+				"v",
+				"design/scss/config/variables.scss"
+			],
+			[
+				"button",
+				"design/scss/base/button.scss"
+			],
+			[
+				"site-header",
+				"design/scss/layout/site-header.scss"
+			],
+			[
+				"pak",
+				"package.json"
+			],
+			[
+				"apply-t",
+				"build/modules/apply-template.js"
+			],
+			[
+				"cg.s",
+				"design/scss/cg.scss"
+			],
+			[
+				"author-m",
+				"design/templates/partials/author-meta.swig"
+			],
+			[
+				"meta.json",
+				"build/meta.json"
+			],
+			[
+				"generate-meta",
+				"build/modules/generate-meta/index.js"
+			],
+			[
+				"post",
+				"design/templates/post.swig"
+			],
+			[
+				"end.js",
+				"build/modules/generate-meta/lib/end.js"
+			],
+			[
+				"rss.js",
+				"build/tasks/rss.js"
+			],
+			[
+				"end",
+				"build/modules/generate-meta/lib/end.js"
+			],
+			[
+				"mid.",
+				"build/modules/generate-meta/lib/mid.js"
+			],
+			[
+				"signup",
+				"design/templates/partials/sidebar/signup-box.swig"
+			],
+			[
+				"signup-",
+				"design/scss/modules/signup-box.scss"
+			],
+			[
+				"article-lis",
+				"design/scss/modules/article-list.scss"
+			],
+			[
+				"a.s",
+				"design/scss/base/a.scss"
+			],
+			[
+				"a",
+				"design/scss/modules/article-list.scss"
+			],
+			[
+				"sitemap",
+				"design/templates/sitemap.swig"
+			],
+			[
+				"apply-tem",
+				"build/modules/apply-template.js"
+			],
+			[
+				"mid.js",
+				"build/modules/generate-meta/lib/mid.js"
+			],
+			[
+				"generate-m",
+				"build/modules/generate-meta/index.js"
+			],
+			[
+				"lates",
+				"design/templates/partials/sidebar/latest-articles.swig"
+			],
+			[
+				"index.sw",
+				"design/templates/site-index.swig"
+			],
+			[
+				"mid",
+				"build/modules/generate-meta/lib/mid.js"
+			],
+			[
+				"to",
+				"todo.txt"
+			],
+			[
+				"dui4buqi3-qing3wen4-ma2fan-ni3-lao2jia",
+				"content/posts/2014/01/dui4buqi3-qing3wen4-ma2fan-ni3-lao2jia.md"
+			],
+			[
+				"po",
+				"design/templates/partials/post-meta.swig"
+			],
+			[
+				"post-m",
+				"design/scss/modules/post-meta.scss"
+			],
+			[
+				"artic",
+				"design/scss/base/article.scss"
+			],
+			[
+				"sign",
+				"design/scss/modules/signup-box.scss"
+			],
+			[
+				"pos",
+				"design/templates/post.swig"
+			],
+			[
+				"liju",
+				"design/scss/modules/liju.scss"
+			],
+			[
+				"conf",
+				"build/config.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 423.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
